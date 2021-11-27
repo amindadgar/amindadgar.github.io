@@ -1,5 +1,5 @@
-This is a test for personal website
+My presonal Website
 ===================
 
-Special Thanks to owner: 
+Main page template owner: 
 https://github.com/mattewing/simple-personal-page
